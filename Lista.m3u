@@ -1,13 +1,28 @@
 #EXTM3U
 #EXTINF:-1, MX: CANAL 6 MULTIMEDIOS TELEVISIÓN (1080p)
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
 #EXTINF:-1, CAT: 3/24 (1080p)
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
+
 #EXTINF:-1, MX: Cartoon Network Latino
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
+
 #EXTINF:-1, ECU: TC MI CANAL (720p HD)
 https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlzIKsK3DBb_jiW9YyaKF_W_ZN5da0uNAxvIAT3UoEDlW)/dm/3/x7wijay/d/live-3.m3u8#cell=lnyc
+
 #EXTINF:-1, ECU: ECUAVISA (1080p HD)
 https://jireh-1-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream0/chunks.m3u8?dpssid=b13214079799706530356f727c5&ndvc=0&sid=ba5t1l1xb212588476506530373ac8bc3
+
 #EXTINF:-1, ESP: LA 1 (1080p HD)
 https://ztnr.rtve.es/ztnr/1688877.m3u8
+
+#EXTINF:-1, ESP: LA 2
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
+
+#EXTINF:-1, ESP: TRECE
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+
+#EXTINF:-1, ESP: EL TORO TV
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+
