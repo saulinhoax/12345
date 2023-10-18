@@ -3,3 +3,5 @@
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="5TVArgentina.ar" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="Undefined", ARG: 5TV Corrientes
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+#EXTINF:-1, COL: RCN
+https://maindots.co/dtvpl2.html?id=1185
