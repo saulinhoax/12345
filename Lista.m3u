@@ -27,11 +27,17 @@ https://jireh-1-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 #EXTINF:-1, ECU: OROMARTV (1080p FHD)
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
-#EXTINF:-1, TELEAMAZONAS (1080p FHD)
+#EXTINF:-1, ECU: TELEAMAZONAS (1080p FHD)
 https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/0fc97608-6057-4db8-9af7-102c21ac18af.m3u8
 
-#EXTINF:-1, ECUADOR TV (1080p FHD)
+#EXTINF:-1, ECU: ECUADOR TV (1080p FHD)
 https://samson.streamerr.co:8081/akira/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, ECU: TELERAMA (SD 360p)
+https://envivo.telerama.ec/stream.m3u8
+
+#EXTINF:-1, ECU: ECOTELTV (SD 360p)
+https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 
 #EXTINF:-1, CANAL 23 (720p HD)
 https://dy434h3s52eoj.cloudfront.net/Canal7GT/d84b644e13e68dd78dfcb9a0cf0338f1.sdp/Canal7GT/Canal7GT1/chunks.m3u8
