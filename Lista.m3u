@@ -78,6 +78,9 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1,TURISTIK TV MEXICO
 https://5fa5de1a545ae.streamlock.net/8030/8030/playlist.m3u8
 
+#EXTINF:-1, CO: CANAL INSTITUCIONAL
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1,NOTICIAS CARACOL COLOMBIA
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 
