@@ -107,3 +107,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1,TC MI CANAL (720P)
 https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl8HwmOQDqcdCKPMl_pQYljHDl_X8O8lx3fdcLo1ukoez)/dm/3/x7wijay/d/live-3.m3u8
+
+#EXTINF:-1,RTS (480P)
+https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/RTSEC/RTSEC1/chunks.m3u8
