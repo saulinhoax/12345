@@ -128,3 +128,6 @@ https://stream-04.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RYz-o3PjYMWFEIf26bh
 
 #EXTINF:-1, TVS RETRO
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+#EXTINF:-1, CINEMA MEXICO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5400
