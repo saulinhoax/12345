@@ -134,3 +134,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5400
 
 #EXTINF:-1, FREE TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/72a1e8d4-9870-43a1-9462-0483a046ae4f/5.m3u8
+
+#EXTINF:-1, HORRORFY
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/946019b9-3ed1-459c-9082-c9d2394936a5/5.m3u8
