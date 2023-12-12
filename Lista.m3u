@@ -12,13 +12,13 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1, ESP: LA 2
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 
-#EXTINF:-1,WOW TV
+#EXTINF:-1, WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 
-#EXTINF:-1,CGTN
+#EXTINF:-1, CGTN
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1,SPAIN:TV GALICIA EUROPA
+#EXTINF:-1, SPAIN:TV GALICIA EUROPA
 http://europa-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:-1, ECU: ECUAVISA (1080P FHD)
@@ -33,91 +33,91 @@ https://samson.streamerr.co:8081/akira/tracks-v1a1/mono.m3u8
 #EXTINF:-1, ECU: TELERAMA (SD 360P)
 https://envivo.telerama.ec/stream.m3u8
 
-#EXTINF:-1,EL TORO TV
+#EXTINF:-1, EL TORO TV
 https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
 
-#EXTINF:-1,24H
+#EXTINF:-1, 24H
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
-#EXTINF:-1,EL PAÍS
+#EXTINF:-1, EL PAÍS
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 
-#EXTINF:-1,NEGOCIOS TV
+#EXTINF:-1, NEGOCIOS TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
-#EXTINF:-1,EL CONFIDENCIAL
+#EXTINF:-1, EL CONFIDENCIAL
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 
-#EXTINF:-1,¡HOLA! PLAY
+#EXTINF:-1, ¡HOLA! PLAY
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
 
-#EXTINF:-1,CANAL SUR ANDALUCÍA
+#EXTINF:-1, CANAL SUR ANDALUCÍA
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
 
-#EXTINF:-1,CANAL SUR 2 ACCESIBLE
+#EXTINF:-1, CANAL SUR 2 ACCESIBLE
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 
-#EXTINF:-1,FORO TV MEXICO
+#EXTINF:-1, FORO TV MEXICO
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 
-#EXTINF:-1,ADN40 MEXICO
+#EXTINF:-1, ADN40 MEXICO
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1,CANAL ONCE MEXICO
+#EXTINF:-1, CANAL ONCE MEXICO
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
-#EXTINF:-1,TURISTIK TV MEXICO
+#EXTINF:-1, TURISTIK TV MEXICO
 https://5fa5de1a545ae.streamlock.net/8030/8030/playlist.m3u8
 
 #EXTINF:-1, CO: CANAL INSTITUCIONAL
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,NOTICIAS CARACOL COLOMBIA
+#EXTINF:-1, NOTICIAS CARACOL COLOMBIA
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 
 #EXTINF:-1,CANAL CAPITAL COLOMBIA
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
 
-#EXTINF:-1,SEÑAL COLOMBIA
+#EXTINF:-1, SEÑAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1,TELEPACIFICO COLOMBIA
+#EXTINF:-1, TELEPACIFICO COLOMBIA
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1, AGROTENDENCIA TV (1080P)
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 
-#EXTINF:-1,CARTOON NETWORK FREELIVE LATAM 2 (720P)
+#EXTINF:-1, CARTOON NETWORK FREELIVE LATAM 2 (720P)
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
 
-#EXTINF:-1,CARTOON NETWORK FREELIVE LATAM (720P)
+#EXTINF:-1, CARTOON NETWORK FREELIVE LATAM (720P)
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
 #EXTINF:-1,CARTOONITO FREELIVE LATAM (720P)
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
-#EXTINF:-1,DISCOVERY KIDS FREELIVE LATAM (720P)
+#EXTINF:-1, DISCOVERY KIDS FREELIVE LATAM (720P)
 https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist.m3u8
 
-#EXTINF:-1,OROMARTV (1080P)
+#EXTINF:-1, OROMARTV (1080P)
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
-#EXTINF:-1,DW ESPAÑOL (1080P)
+#EXTINF:-1, DW ESPAÑOL (1080P)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1,TC MI CANAL (720P)
+#EXTINF:-1, TC MI CANAL (720P)
 https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl8HwmOQDqcdCKPMl_pQYljHDl_X8O8lx3fdcLo1ukoez)/dm/3/x7wijay/d/live-3.m3u8
 
-#EXTINF:-1,RTS (480P)
+#EXTINF:-1, RTS (480P)
 https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/RTSEC/RTSEC1/chunks.m3u8
 
-#EXTINF:-1,RTU (480P)
+#EXTINF:-1, RTU (480P)
 https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
 
-#EXTINF:-1,TVC ECUADOR (480P)
+#EXTINF:-1, TVC ECUADOR (480P)
 https://d2vb5iv6i34lh5.cloudfront.net/TVCEC/d58f5eb5cbb9ad9c56649a0083de7c8b.sdp/TVCEC/TVCEC2/chunks.m3u8
 
-#EXTINF:-1,RUNTIME ESPAÑOL (480P)
+#EXTINF:-1, RUNTIME ESPAÑOL (480P)
 https://stream.ads.ottera.tv/cl/231212clsani69ldp7mchi85p0/854x480_1355200_2_f.m3u8?i=728_2649
 
 #EXTINF:-1, TOP CINE 2
@@ -179,3 +179,6 @@ https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 
 #EXTINF:-1, GTV
 https://cdn.streamhispanatv.net:3126/live/genesistvlive.m3u8
+
+#EXTINF:-1, CANAL 35 YEPOTV
+https://cdn.streamhispanatv.net:3948/live/yepotvlive.m3u8
