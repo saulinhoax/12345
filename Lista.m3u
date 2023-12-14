@@ -191,3 +191,6 @@ https://cdn.streamhispanatv.net:3948/live/yepotvlive.m3u8
 
 #EXTINF:-1, CANAL9TV-GT
 https://cdn.streamhispanatv.net:3237/live/canal9tvgtlive.m3u8
+
+#EXTINF:-1, HBO MAX
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HBO_HD_MX)/manifest.mpd
