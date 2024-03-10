@@ -312,3 +312,5 @@ http://38.56.109.19/play/a00r/index.m3u8
 http://38.56.109.19/play/a00l/index.m3u8
 #EXTINF:-1,WEST
 http://38.56.109.19/play/WEST/index.m3u8
+#EXTINF:-1, ESPN STAR+ UFC
+https://nes04.jobdone.top:8088/live/golucheros/playlist.m3u8?vidictid=197924395532&id=119358&pk=84e0232da08210013ebca1ddeca6ef537caa8f4282855cf3cc84558d5ebbaaf2c319ed21d8292313176b4934122463e53ea803df703c192185fba24eba8f7aec
