@@ -165,7 +165,7 @@ https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1, GUATV
 https://cdn.streamhispanatv.net:3589/live/guatvgtlive.m3u8
 
-#EXTINF:-1, TOTOVISION
+#EXTINF:-1, TOTOVISIÓN
 https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 
 #EXTINF:-1, CANAL 9 - BARBE TV
@@ -191,6 +191,3 @@ https://cdn.streamhispanatv.net:3948/live/yepotvlive.m3u8
 
 #EXTINF:-1, CANAL9TV-GT
 https://cdn.streamhispanatv.net:3237/live/canal9tvgtlive.m3u8
-
-#EXTINF:-1, BANDA TV GT
-https://cdn.streamhispanatv.net:3476/live/bandatvlive.m3u8
