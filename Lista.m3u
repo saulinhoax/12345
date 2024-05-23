@@ -177,8 +177,8 @@ https://cdn.streamhispanatv.net:3003/live/cnidigitallive.m3u8
 #EXTINF:-1, SOL TV
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 
-#EXTINF:-1, GTV
-https://cdn.streamhispanatv.net:3126/live/genesistvlive.m3u8
+#EXTINF:-1, GTV GUATEMALA
+https://vdo1.panelstreaming.live:3820/live/gtvlive.m3u8
 
 #EXTINF:-1, SAS TV
 https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
@@ -191,3 +191,6 @@ https://cdn.streamhispanatv.net:3948/live/yepotvlive.m3u8
 
 #EXTINF:-1, CANAL9TV-GT
 https://cdn.streamhispanatv.net:3237/live/canal9tvgtlive.m3u8
+
+#EXTINF:-1, BANDA TV GT
+https://cdn.streamhispanatv.net:3476/live/bandatvlive.m3u8
