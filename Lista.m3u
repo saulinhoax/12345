@@ -1,7 +1,5 @@
-#EXTM3U
-
 # --- Link de Canales de Guatemala https://www.playgt.net/ ---
-
+#EXTM3U
 #EXTINF:-1, TVS RETRO GUATEMALA
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
@@ -98,6 +96,9 @@ https://cdn.streamhispanatv.net:3654/live/jutiapavisionlive.m3u8
 
 
 # ---------- CANALES DE ECUADOR ---------
+
+#EXTINF:-1, ECU: VITO TVO
+https://live-ak.vimeocdn.com/exp=1716583978~acl=%2F5dddc189-1531-4952-b7ad-29c9bd75f1a4%2F%2A~hmac=ac19967f34380fa2f3e18549e31b06ea181c42932af074b8a8dccc64663809b6/5dddc189-1531-4952-b7ad-29c9bd75f1a4/chunklist_b6256000.m3u8?max_segments=10
 
 #EXTINF:-1, ECU: ECUAVISA GUAYAQUIL
 https://jireh-1-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream0/chunks.m3u8?dpssid=b13214079799706530356f727c5&ndvc=0&sid=ba5t1l1xb212588476506530373ac8bc3
