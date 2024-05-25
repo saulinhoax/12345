@@ -1,5 +1,9 @@
-# --- Link de Canales de Guatemala https://www.playgt.net/ ---
+# ACTUALIZACION 24-05-2024
+
 #EXTM3U
+
+# --- Link de Canales de Guatemala https://www.playgt.net/ ---
+
 #EXTINF:-1, TVS RETRO GUATEMALA
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
@@ -204,5 +208,3 @@ https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1, CANAL SUR 2 ACCESIBLE
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
-
-# ACTUALIZACION 23-05-2024
